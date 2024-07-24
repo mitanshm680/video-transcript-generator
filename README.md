@@ -36,7 +36,7 @@ pip install moviepy pydub SpeechRecognition tqdm
 1. **Set File Paths**: Update the `video_path`, `audio_path`, and `transcript_path` variables with your file paths.
 
     ```python
-    video_path = "file.mp4"
+    video_path = "example_video.mp4"
     audio_path = "extracted_audio.wav"
     transcript_path = "transcript_with_timestamps.txt"
     ```
