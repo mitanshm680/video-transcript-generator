@@ -137,7 +137,7 @@ def video_to_transcript(video_path, audio_path, transcript_path):
     print(f"Transcription complete. Total time taken: {end_time - start_time:.2f} seconds")
 
 # Define file paths
-video_path = "file.mp4"
+video_path = "example_video.mp4"
 audio_path = "extracted_audio.wav"
 transcript_path = "transcript_with_timestamps.txt"
 
